@@ -5,8 +5,11 @@
 ![image](https://github.com/jingkaijiuqu/Non-Reflected-Image-Fusion-based-Low-Light-Image-Enhancement/blob/main/2.png)
 # 主观评价3：
 ![image](https://github.com/jingkaijiuqu/Non-Reflected-Image-Fusion-based-Low-Light-Image-Enhancement/blob/main/3.PNG)
+# 主观评价4：
 ![image](https://github.com/jingkaijiuqu/Non-Reflected-Image-Fusion-based-Low-Light-Image-Enhancement/blob/main/4.PNG)
+# 主观评价5：
 ![image](https://github.com/jingkaijiuqu/Non-Reflected-Image-Fusion-based-Low-Light-Image-Enhancement/blob/main/5.PNG)
+# 客观评价：
 ![image](https://github.com/jingkaijiuqu/Non-Reflected-Image-Fusion-based-Low-Light-Image-Enhancement/blob/main/objective.PNG)
 ![image](https://github.com/jingkaijiuqu/Non-Reflected-Image-Fusion-based-Low-Light-Image-Enhancement/blob/main/similarity1.PNG)
 ![image](https://github.com/jingkaijiuqu/Non-Reflected-Image-Fusion-based-Low-Light-Image-Enhancement/blob/main/similarity2.PNG)
